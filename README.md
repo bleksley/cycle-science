@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cycle Science — Bicycle Tours & Safaris
 
-## Getting Started
+Premium mountain bike safari website for Cycle Science (KwaZulu-Natal). Built with Next.js App Router and Tailwind CSS.
 
-First, run the development server:
+## Getting started
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Content
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Edit JSON in [`content/`](content/) — see [`content/README.md`](content/README.md) for image paths and pricing fields.
 
-## Learn More
+## Enquiries
 
-To learn more about Next.js, take a look at the following resources:
+Copy [`.env.example`](.env.example) to `.env.local` and set `RESEND_API_KEY` + `ENQUIRY_TO_EMAIL` to send enquiry emails. Without Resend, submissions are logged server-side and the form still succeeds.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Scripts
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- `npm run dev` — development server
+- `npm run build` — production build
+- `node scripts/generate-placeholders.mjs` — regenerate SVG placeholders
 
-## Deploy on Vercel
+## Sitemap (brief)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Home · About · Experiences (Zingela, Drakensberg, Karkloof) · Pricing · Gallery · FAQ · Enquire · Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Before launch
+- Set real values in content/site.json (WhatsApp number, phone) and content/pricing.json (amounts).
+- Copy .env.example → .env.local and add RESEND_API_KEY + ENQUIRY_TO_EMAIL for live enquiry emails.
+- Replace placeholder images per content/README.md.

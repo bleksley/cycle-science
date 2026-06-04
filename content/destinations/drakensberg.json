@@ -1,0 +1,56 @@
+{
+  "slug": "drakensberg",
+  "name": "Drakensberg",
+  "tagline": "Big Mountain Icons",
+  "subhead": "ESCALPMENT SCENERY, ALTITUDE, AND EXPEDITION-STYLE RIDING IN THE BERG",
+  "positioning": "Big-mountain iconic landscape experience",
+  "role": "High-appeal destination for premium and international marketing",
+  "heroImage": "/images/destinations/drakensberg/hero.svg",
+  "heroImageAlt": "Mountain biker on Drakensberg escarpment trail",
+  "overview": "The Drakensberg delivers the dramatic escarpment scenery, altitude, and expedition-style riding that international guests dream of — and that local riders respect as bucket-list terrain. Cycle Science packages combine big views, challenging trails, and mountain accommodation into a premium Berg experience.",
+  "whatToExpect": "Days start with crisp mountain air and build through escarpment routes with unforgettable vistas. Riding is expedition in spirit — prepared, guided, and paced for the altitude and terrain.",
+  "trails": "Escarpment and mountain trails with elevation, exposure to weather, and varied surfaces. Intermediate+ fitness recommended. Guides manage route selection around conditions and group ability.",
+  "accommodation": "Mountain lodges or chalets suited to multi-day stays — warm meals, dry kit, and proximity to trailheads where possible.",
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Mountain arrival",
+      "description": "Meet the team, acclimatise, equipment check, and introductory ride."
+    },
+    {
+      "day": "Day 2–4",
+      "title": "Escarpment expeditions",
+      "description": "Guided big-mountain days with dramatic viewpoints and technical sections as per conditions."
+    },
+    {
+      "day": "Day 5",
+      "title": "Summit farewell ride",
+      "description": "Final Berg loop and departure from the mountains."
+    }
+  ],
+  "inclusions": [
+    "Expedition-style guiding",
+    "Mountain accommodation and meals",
+    "Trail and access fees",
+    "Route planning for altitude and weather"
+  ],
+  "exclusions": [
+    "Travel to Drakensberg region",
+    "Bike hire if required",
+    "Travel insurance",
+    "Personal gear not listed in kit brief"
+  ],
+  "packageId": "drakensberg-5day",
+  "gallery": [
+    { "src": "/images/destinations/drakensberg/gallery-1.svg", "alt": "Escarpment panorama" },
+    { "src": "/images/destinations/drakensberg/gallery-2.svg", "alt": "Altitude trail riding" },
+    { "src": "/images/destinations/drakensberg/gallery-3.svg", "alt": "Mountain accommodation" },
+    { "src": "/images/destinations/drakensberg/gallery-4.svg", "alt": "Dramatic Berg views" }
+  ],
+  "highlights": [
+    "Escarpment scenery",
+    "Altitude and dramatic views",
+    "Expedition-style riding",
+    "Premium international appeal"
+  ]
+}

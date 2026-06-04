@@ -1,0 +1,56 @@
+{
+  "slug": "zingela",
+  "name": "Zingela",
+  "tagline": "Ride Into the Wild",
+  "subhead": "FLAGSHIP BUSHVELD SAFARI — REMOTE TRAILS, RIVER VALLEYS, AND LODGE ATMOSPHERE",
+  "positioning": "Flagship 'ride into the wild' offer",
+  "role": "Hero product and primary commercial focus",
+  "heroImage": "/images/destinations/zingela/hero.svg",
+  "heroImageAlt": "Mountain bikers in bushveld landscape at Zingela",
+  "overview": "Zingela is our signature mountain bike safari — remote bushveld trails, river valley scenery, and a lodge or camp atmosphere that feels unmistakably wild. Guided multi-day riding puts you at the heart of KwaZulu-Natal's safari country, with wildlife ambience and landscapes that sell the experience before you clip in.",
+  "whatToExpect": "Expect immersive days on the bike, evenings at camp or lodge, and a pace that balances adventure with recovery. Your guides know the terrain and the rhythm of the bush — this is curated riding, not self-guided wandering.",
+  "trails": "Remote bushveld singletrack and river valley routes, with varied technical sections suited to intermediate+ riders. Terrain mixes open veld, river crossings, and bush corridors — always with a guided safety brief and support.",
+  "accommodation": "Lodge or camp-style accommodation with safari atmosphere — comfortable beds, communal meals, and the sense of being deep in the landscape rather than passing through.",
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & welcome ride",
+      "description": "Transfer to base, bike check, safety brief, and a shorter orientation ride to settle in."
+    },
+    {
+      "day": "Day 2–4",
+      "title": "Wild trail days",
+      "description": "Full guided riding through bushveld and river valleys, with lunch stops and photographic moments built in."
+    },
+    {
+      "day": "Day 5",
+      "title": "Final loop & departure",
+      "description": "Morning ride and farewell — depart with trail stories and safari memories."
+    }
+  ],
+  "inclusions": [
+    "Professional guiding",
+    "Accommodation and meals per itinerary",
+    "Trail and access fees",
+    "Pre-ride briefings and route support"
+  ],
+  "exclusions": [
+    "Flights and transfers to meeting point (unless stated)",
+    "Bike hire if required",
+    "Travel insurance",
+    "Personal expenses and gratuities"
+  ],
+  "packageId": "zingela-5day",
+  "gallery": [
+    { "src": "/images/destinations/zingela/gallery-1.svg", "alt": "Bushveld trail riding" },
+    { "src": "/images/destinations/zingela/gallery-2.svg", "alt": "River valley scenery" },
+    { "src": "/images/destinations/zingela/gallery-3.svg", "alt": "Lodge atmosphere" },
+    { "src": "/images/destinations/zingela/gallery-4.svg", "alt": "Rider action shot" }
+  ],
+  "highlights": [
+    "Remote bushveld trails",
+    "River valley scenery",
+    "Wildlife feel and safari atmosphere",
+    "Flagship multi-day guided riding"
+  ]
+}

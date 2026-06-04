@@ -1,0 +1,86 @@
+{
+  "intro": "Every safari package includes guided riding, accommodation, meals, and trail access as listed. Local Rider Rates are in South African Rand; International Guest Rates are shown in USD for clarity — contact us for GBP/EUR packages.",
+  "packages": [
+    {
+      "id": "zingela-5day",
+      "name": "Zingela Wild Safari",
+      "destination": "Zingela",
+      "duration": "5 days / 4 nights",
+      "difficulty": "Intermediate+",
+      "localRate": {
+        "label": "Local Rider Rate",
+        "amount": "TBD",
+        "currency": "ZAR",
+        "note": "Exceptional value for South African riders"
+      },
+      "internationalRate": {
+        "label": "International Guest Rate",
+        "amount": "TBD",
+        "currency": "USD",
+        "note": "Premium all-in destination experience"
+      },
+      "inclusions": [
+        "Guided multi-day mountain biking",
+        "Lodge or camp accommodation",
+        "Meals as per itinerary",
+        "Trail and access fees",
+        "Safari-atmosphere riding experiences"
+      ],
+      "optionalUpgrades": [
+        "4x4 support transport",
+        "Private group customisation"
+      ]
+    },
+    {
+      "id": "drakensberg-5day",
+      "name": "Drakensberg Escarpment Expedition",
+      "destination": "Drakensberg",
+      "duration": "5 days / 4 nights",
+      "difficulty": "Intermediate+",
+      "localRate": {
+        "label": "Local Rider Rate",
+        "amount": "TBD",
+        "currency": "ZAR"
+      },
+      "internationalRate": {
+        "label": "International Guest Rate",
+        "amount": "TBD",
+        "currency": "USD"
+      },
+      "inclusions": [
+        "Expedition-style guided riding",
+        "Mountain accommodation",
+        "Meals as per itinerary",
+        "Trail and access fees",
+        "Altitude and escarpment route planning"
+      ],
+      "optionalUpgrades": ["Private group customisation"]
+    },
+    {
+      "id": "karkloof-3day",
+      "name": "Karkloof Forest Flow",
+      "destination": "Karkloof",
+      "duration": "3 days / 2 nights",
+      "difficulty": "Intermediate",
+      "localRate": {
+        "label": "Local Rider Rate",
+        "amount": "TBD",
+        "currency": "ZAR",
+        "note": "Ideal for weekend escapes"
+      },
+      "internationalRate": {
+        "label": "International Guest Rate",
+        "amount": "TBD",
+        "currency": "USD"
+      },
+      "inclusions": [
+        "Guided forest and flow trail riding",
+        "Accommodation in the Midlands",
+        "Meals as per itinerary",
+        "Trail and access fees"
+      ],
+      "optionalUpgrades": ["Extended stay packages"]
+    }
+  ],
+  "footnote": "Pricing is indicative until confirmed at enquiry. Future products (1-day, 3-day, 5-day, private group, and corporate trips) will be added as packages launch."
+}

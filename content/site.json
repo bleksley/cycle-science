@@ -1,0 +1,46 @@
+{
+  "name": "Cycle Science",
+  "tagline": "Bicycle Tours & Safaris",
+  "description": "Premium guided mountain bike safari experiences across KwaZulu-Natal — epic trails, wild landscapes, accommodation, and unforgettable riding.",
+  "contact": {
+    "email": "cyclesciencekzn@gmail.com",
+    "phone": "+27 81 531 0901",
+    "whatsappNumber": "+27 81 531 0901",
+    "location": "KwaZulu-Natal, South Africa"
+  },
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    { "label": "Experiences", "href": "/experiences" },
+    { "label": "Pricing", "href": "/pricing" },
+    { "label": "Gallery", "href": "/gallery" },
+    { "label": "FAQ", "href": "/faq" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "ctas": {
+    "primary": "Enquire Now",
+    "secondary": "View Safari Experiences"
+  },
+  "social": {
+    "instagram": "",
+    "facebook": "https://www.facebook.com/cyclesciencekzn",
+    "youtube": ""
+  },
+  "testimonials": [
+    {
+      "quote": "More than a bike trip — guided riding through incredible landscapes with everything taken care of.",
+      "author": "International guest",
+      "location": "United Kingdom"
+    },
+    {
+      "quote": "The local rate made this a bucket-list weekend we could actually book. World-class trails without the overseas price tag.",
+      "author": "Local rider",
+      "location": "Durban, KZN"
+    },
+    {
+      "quote": "Zingela felt like riding into the wild. Lodge atmosphere, river valleys, and trails you won't forget.",
+      "author": "Safari guest",
+      "location": "Johannesburg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "karkloof",
+  "name": "Karkloof",
+  "tagline": "Forest Flow & Midlands Magic",
+  "subhead": "FLOW TRAILS, WATERFALLS, AND REPEAT-VISIT RIDING IN THE MIDLANDS",
+  "positioning": "Accessible forest and trail-network experience",
+  "role": "Strong local product with frequent return potential",
+  "heroImage": "/images/destinations/karkloof/hero.svg",
+  "heroImageAlt": "Flow trail through Karkloof forest",
+  "overview": "Karkloof is the accessible heart of our launch lineup — renowned flow trails, Midlands riding, waterfalls, and a trail network locals return to again and again. Shorter packages and strong local value make this ideal for weekend escapes and repeat visits.",
+  "whatToExpect": "Forest canopy, flow sections, and guided days that hit the best of the network without guesswork. Less remote than Zingela, equally memorable for trail quality and atmosphere.",
+  "trails": "Flow trails and forest singletrack with options for intermediate riders. Mix of climbing, technical forest sections, and open trail — guides tailor daily routes to the group.",
+  "accommodation": "Midlands guesthouse or lodge accommodation — comfortable, ride-friendly, and close to trail access.",
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Forest introduction",
+      "description": "Arrival, bike setup, and afternoon flow session."
+    },
+    {
+      "day": "Day 2",
+      "title": "Waterfalls & classics",
+      "description": "Full day on signature Karkloof trails including scenic stops."
+    },
+    {
+      "day": "Day 3",
+      "title": "Final flow & departure",
+      "description": "Morning ride and checkout — ideal for long weekends."
+    }
+  ],
+  "inclusions": [
+    "Guided forest and flow riding",
+    "Accommodation and meals",
+    "Trail and access fees"
+  ],
+  "exclusions": [
+    "Transport to Karkloof",
+    "Bike hire if required",
+    "Travel insurance"
+  ],
+  "packageId": "karkloof-3day",
+  "gallery": [
+    { "src": "/images/destinations/karkloof/gallery-1.svg", "alt": "Forest flow trail" },
+    { "src": "/images/destinations/karkloof/gallery-2.svg", "alt": "Midlands scenery" },
+    { "src": "/images/destinations/karkloof/gallery-3.svg", "alt": "Waterfall stop" },
+    { "src": "/images/destinations/karkloof/gallery-4.svg", "alt": "Trail network riding" }
+  ],
+  "highlights": [
+    "Flow trails and forest riding",
+    "Midlands accessibility",
+    "Waterfalls and scenic stops",
+    "Strong local weekend value"
+  ]
+}
